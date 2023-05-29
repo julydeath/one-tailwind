@@ -21,9 +21,7 @@ const Hero = () => {
             backSpeed={50}
             loop
           ></Typed> */}
-          <p className="text-[#00df98] ml-1 font-semibold">
-            React & Tailwindcss
-          </p>
+          <p className="text-[#00df98] ml-1 font-semibold">React</p>
         </div>
         <button className="bg-[#00df98] m-4 pt-2 pb-2 rounded-md text-xl w-[300px] mx-auto text-black font-medium">
           Get Started

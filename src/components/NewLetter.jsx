@@ -16,7 +16,7 @@ const NewLetter = () => {
             type="text"
             placeholder="Enter your email"
           />
-          <button className="bg-[#00df98] rounded-md py-1.5 px-6 ml-2 text-black">
+          <button className="bg-[#00df98] rounded-md py-1.5 px-6 mt-2 md:ml-2 md:mt-0 text-black">
             Notify me
           </button>
           <p className="mt-2 text-xs">
