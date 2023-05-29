@@ -7,11 +7,11 @@ const Navbar = () => {
     <div className="text-white flex justify-between items-center px-4 h-24 max-w-[1240px] mx-auto">
       <h1 className="text-3xl font-bold text-[#00df98]">REACT.</h1>
       <ul className="sm-none md-none hidden md:flex">
-        <li className="p-4">Home</li>
-        <li className="p-4">Company</li>
-        <li className="p-4">Resources</li>
-        <li className="p-4">About</li>
-        <li className="p-4">Contact</li>
+        <li className="p-4 hover:text-[#00df98]">Home</li>
+        <li className="p-4 hover:text-[#00df98]">Company</li>
+        <li className="p-4 hover:text-[#00df98]">Resources</li>
+        <li className="p-4 hover:text-[#00df98]">About</li>
+        <li className="p-4 hover:text-[#00df98]">Contact</li>
       </ul>
       <div className="block md:hidden">
         {menu ? (
