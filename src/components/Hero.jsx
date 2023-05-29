@@ -8,7 +8,7 @@ const Hero = () => {
         <p className="uppercase text-xl text-[#00df98] mb-1">
           Hi, This is manoj
         </p>
-        <div className="bg-gradient-to-r from-green-200 to-green-500 h-0.5 w-[400px] mx-auto"></div>
+        <div className="bg-gradient-to-r from-green-200 to-green-500 h-0.5 w-[200px] md:w-[400px] mx-auto "></div>
         <h1 className="md:text-4xl sm:text-2xl text-xl font-bold mt-3 pt-3 ">
           Small React and Tailwind project
         </h1>
